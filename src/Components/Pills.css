@@ -1,0 +1,12 @@
+.pills-peach-gradient .nav-item .nav-link.active {
+background: linear-gradient(40deg, #FFD86F, #FC6262);
+}
+.pills-blue-gradient .nav-item .nav-link.active {
+background: linear-gradient(40deg, #45cafc, #303f9f);
+}
+.pills-purple-gradient .nav-item .nav-link.active {
+background: linear-gradient(40deg, #ff6ec4, #7873f5);
+}
+.pills-aqua-gradient .nav-item .nav-link.active {
+background: linear-gradient(40deg, #2096ff, #05ffa3);
+}
