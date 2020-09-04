@@ -1,4 +1,4 @@
 # Ensiasgossip-client
 Social  network 
 ## ID for test:
-Email: test@gtest.com // mdp : dalia
+Email: test@test.com // mdp : dalia
